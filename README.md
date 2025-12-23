@@ -35,7 +35,7 @@ This implementation explores:
 
 ### 1. Clone Repository
 ```bash
-git clone #edit this with new name
+git clone https://github.com/arturo-b-cmu/llm-prompt-injection-analysis.git
 cd rag
 ```
 
