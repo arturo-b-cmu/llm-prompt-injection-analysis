@@ -4,6 +4,8 @@ A Retrieval Augmented Generation (RAG) system built with Llama 3, Flask, and Chr
 
 ![Attack flow diagram](diagrams/pplt-project-diagram.png)
 
+Attack architecture demonstrating indirect prompt injection vulnerability. Malicious instructions embedded in uploaded medical records bypass system prompts when retrieved during legitimate user queries, resulting in unauthorized PII disclosure.
+
 
 ## 🎯 Research Focus
 
