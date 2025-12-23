@@ -6,7 +6,7 @@ A Retrieval Augmented Generation (RAG) system built with Llama 3, Flask, and Chr
 
 Attack architecture demonstrating indirect prompt injection vulnerability. Malicious instructions embedded in uploaded medical records bypass system prompts when retrieved during legitimate user queries, resulting in unauthorized PII disclosure.
 
-📄 [View full report (PDF)](docs/CI-Violations-Prompt-Injection-Attacks-on-LLMs-Final-Paper.pdf)
+## [View full report (PDF)](docs/CI-Violations-Prompt-Injection-Attacks-on-LLMs-Final-Paper.pdf)
 
 
 
