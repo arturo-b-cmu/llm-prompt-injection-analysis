@@ -8,6 +8,7 @@ Attack architecture demonstrating indirect prompt injection vulnerability. Malic
 
 ## [View full report (PDF)](docs/CI-Violations-Prompt-Injection-Attacks-on-LLMs-Final-Paper.pdf)
 
+## [View Video Demo] (https://www.youtube.com/watch?v=UMOyKghlyUA)
 
 
 ## 🎯 Research Focus
